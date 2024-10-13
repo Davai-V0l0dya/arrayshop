@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-30 19:14+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\arrayshop\settings.py:100
+msgid "English"
+msgstr ""
+
+#: .\arrayshop\settings.py:101
+msgid "Spanish"
+msgstr ""
+
+#: .\arrayshop\urls.py:12
+msgid "cart/"
+msgstr ""
+
+#: .\arrayshop\urls.py:13
+msgid "orders/"
+msgstr ""
+
+#: .\arrayshop\urls.py:14
+msgid "payment/"
+msgstr ""
+
+#: .\arrayshop\urls.py:15
+msgid "coupons/"
+msgstr ""
+
+#: .\cart\forms.py:12
+msgid "Quantity"
+msgstr ""
+
+#: .\coupons\forms.py:6
+msgid "Coupon"
+msgstr ""
+
+#: .\payment\urls.py:10
+msgid "process/"
+msgstr ""
+
+#: .\payment\urls.py:11
+msgid "completed/"
+msgstr ""
+
+#: .\payment\urls.py:12
+msgid "canceled/"
+msgstr ""
+
+#: .\shop\templates\shop\base.html:8
+msgid "Shop"
+msgstr ""
+
+#: .\shop\templates\shop\base.html:21
+#, python-format
+msgid ""
+"\n"
+"                                %(items)s item, $%(total)s\n"
+"                            "
+msgid_plural ""
+"\n"
+"                                %(items)s items, $%(total)s\n"
+"                            "
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\shop\templates\shop\base.html:28
+msgid "Cart is empty."
+msgstr ""
+
+#: .\shop\templates\shop\product\detail.html:27
+msgid "Add to cart"
+msgstr ""
+
+#: .\shop\templates\shop\product\detail.html:32
+msgid "People was bought this also bought"
+msgstr ""
